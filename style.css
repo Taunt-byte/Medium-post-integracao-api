@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#search-input {
+    width: 60%;
+    margin: 10px auto;
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+}
+
+#search-button {
+    display: block;
+    margin: 10px auto;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+#results {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
